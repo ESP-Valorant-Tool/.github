@@ -1,4 +1,4 @@
-# 🎯 Valorant ESP Assistant — Offline Setup Guide for Vision Overlay Utility 👁️
+# 🎯 Valorant ESP Assistant — Setup Guide Overlay Utility 👁️
 
 Enhance your gameplay with the **Valorant ESP Assistant**, a tactical overlay setup designed for players who seek improved awareness and vision customization. Built for offline deployment, this tool provides advanced screen overlays for in-game clarity and precise strategic advantage.
 
